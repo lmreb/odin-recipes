@@ -6,3 +6,30 @@ h1 {
     text-align: center;
     font-weight: bold;
 }
+
+h3 {
+    font-style: italic;
+    text-align: center;
+}
+
+.footer {
+    font-style: italic;
+    float: right;
+}
+
+h4 {
+    background-color: rgb(235, 123, 95);
+    text-indent: 30px;
+}
+
+.list li {
+    font-size: 14px;
+}
+
+img {
+    height: auto;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
